@@ -10,6 +10,7 @@ If supported on your terminal emulator, zoom out and you may see the images corr
 * Some **Linux OS** (sorry, people, I didn't bother to port this elsewhere);
 * **yt-dlp**, available on https://github.com/yt-dlp/yt-dlp;
 * **ffmpeg**, available on https://ffmpeg.org/;
+* **libpng**, available on https://www.libpng.org/pub/png/libpng.html;
 * **mpg123**, available on https://www.mpg123.de/;
 * **C** and **gcc**.
 
